@@ -7,7 +7,7 @@ package a3;
 
 /**
  *
- * @author jayra
+ * @author Moxesh
  */
 
 // interface for common method annualpay
